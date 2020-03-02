@@ -4,7 +4,7 @@
   "description": "Standard ESLint configurations for Unitario",
   "main": ".eslintrc.js",
   "license": "MIT",
-  "homepage": "https://github.com/unitario/eslint-config#readme",
+  "homepage": "https://github.com/unitario/eslint-config",
   "author": {
     "name": "Unitario",
     "email": "stefan.astrand@unitar.io",

@@ -17,7 +17,7 @@ This package use [ESLint to run Prettier](https://prettier.io/docs/en/integratin
 #### Development
 
 ```
-npm install @langoon/eslint-config --save-dev
+npm install @unitario/eslint-config --save-dev
 ```
 
 #### Peer
@@ -43,7 +43,7 @@ Create an `.eslintrc` file at the root of your project with this content:
 
 ```json
 {
-  "extends": "@langoon"
+  "extends": "@unitario"
 }
 ```
 
@@ -72,7 +72,7 @@ If you'd like to override any rules, you can add the rules to your `.eslintrc` f
 
 ```json
 {
-  "extends": "@langoon",
+  "extends": "@unitario",
   "rules": {
     "no-console": "off"
   }
